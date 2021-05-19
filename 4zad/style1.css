@@ -1,0 +1,54 @@
+.All{
+    background-color: #c5ccc579;
+    border: 0px #050505; /* Чёрная рамка */
+    border-style: outset;
+    height: 735px;
+    width: 1525px;
+}
+.picture{
+    margin: auto;
+    height: 450px;
+    width: 600px;
+}
+.MyText{
+    font-size: 100%;
+    height: 200px;
+    width: 590px;
+    background: #0549e9; /* Цвет фона */
+    border: 5px solid #000000; /* Чёрная рамка */
+}
+.MyText:hover{
+    color:rgb(252, 252, 252);
+}
+.block-name{
+    margin: auto;
+    position: fixed;
+    top: 70px;
+    left: 650px;
+    font-size: 120%;
+    color: #1f05b3;
+    text-shadow: 10 10 200px #000000;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+.PosButton{
+    font-size: 120%;
+    margin: auto;
+    position: fixed;
+    top: 70px;
+    left: 1200px;
+    color: #c40404;
+}
+
+.MyText1
+{
+    font-size: 65%;
+    position: fixed;
+    color: #000000;
+    top: 300px;
+    left: 650px;
+    width: 800px;
+    background: #ffffff; /* Цвет фона */
+    text-shadow: 0 0 20px #000000;
+    border: 5px solid #000000; /* Чёрная рамка */
+}
